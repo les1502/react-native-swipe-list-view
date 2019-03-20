@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "react-native-swipe-list-view@1.5.0",
+      "F:\\App2\\App"
+    ]
+  ],
+  "_from": "react-native-swipe-list-view@1.5.0",
+  "_id": "react-native-swipe-list-view@1.5.0",
+  "_inBundle": false,
+  "_integrity": "sha1-wZfJr+IYid5o3y9jp90BYutvxBE=",
+  "_location": "/react-native-swipe-list-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-swipe-list-view@1.5.0",
+    "name": "react-native-swipe-list-view",
+    "escapedName": "react-native-swipe-list-view",
+    "rawSpec": "1.5.0",
+    "saveSpec": null,
+    "fetchSpec": "1.5.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-swipe-list-view/download/react-native-swipe-list-view-1.5.0.tgz",
+  "_spec": "1.5.0",
+  "_where": "F:\\App2\\App",
+  "author": {
+    "name": "Jesse Sessler",
+    "email": "jesse.sessler@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jemise111/react-native-swipe-list-view/issues"
+  },
+  "description": "A ListView with rows that swipe open and closed.",
+  "homepage": "https://github.com/jemise111/react-native-swipe-list-view#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "listview",
+    "swipe",
+    "swipeable"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-native-swipe-list-view",
+  "peerDependencies": {
+    "react": ">=0.14.8",
+    "react-native": ">=0.23.1",
+    "prop-types": ">=15.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemise111/react-native-swipe-list-view.git"
+  },
+  "scripts": {
+    "dev": "node bin/dev.js && cd SwipeListExample && npm run start",
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "version": "1.5.0"
+}
