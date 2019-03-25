@@ -13,6 +13,10 @@ Migrating to `SectionList` is very similar. Please see `example.js` for a full u
 You can continue to use the (deprecated) `ListView` component, however there are some BREAKING CHANGES that are explained in that section as well
 
 --------
+# Use Case
+- 侧滑删除
+
+
 
 ```<SwipeListView>``` is a ListView with rows that swipe open and closed. Handles default native behavior such as closing rows when ListView is scrolled or when other rows are opened.
 
