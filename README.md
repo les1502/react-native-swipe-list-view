@@ -382,7 +382,7 @@ defaultValue: `true`
 
 ### `closeOnScroll`
 
-Should open rows be closed when the listView begins scrolling
+Should open rows be closed when the listView begins scrolling（当按下一行时，关闭打开的行）
 
 type: `bool`
 
@@ -391,7 +391,7 @@ defaultValue: `true`
 
 ### `closeOnRowBeginSwipe`
 
-Should open rows be closed when a row begins to swipe open
+Should open rows be closed when a row begins to swipe open(当行开始滑动打开时，关闭打开的行)
 
 type: `bool`
 
@@ -400,7 +400,7 @@ defaultValue: `false`
 
 ### `closeOnRowOpen`
 
-Should open rows be closed when another row is opened
+Should open rows be closed when another row is opened(当其他行开始滑动打开时，关闭打开的行)
 
 type: `bool`
 
@@ -417,7 +417,7 @@ defaultValue: `2`
 
 ### `leftOpenValue`
 
-TranslateX value for opening the row to the left (positive number)
+TranslateX value for opening the row to the left (positive number)（左侧侧滑X的偏移量(正数)）
 
 type: `number`
 
